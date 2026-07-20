@@ -84,8 +84,7 @@ datepicker/
 
 ## Live Demo
 
-Coming soon.
-
+https://datepicker-mu.vercel.app/
 ---
 
 ## License
